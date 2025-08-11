@@ -53,10 +53,10 @@ This project strengthened my expertise in:
 
 1. Clone this repository  
    ```bash
-   git clone https://github.com/yourusername/charger-locator-app.git
+   [git clone https://github.com/Shruthavw/charger-locator-app.git]
    ```
 
-2. Explore the `client/` (frontend) and `server/` (backend) codebases.
+2. Explore the `src/` (frontend) and `backend/` (backend) codebases.
 
 3. Review the architecture diagram and code implementation for reference.
 
