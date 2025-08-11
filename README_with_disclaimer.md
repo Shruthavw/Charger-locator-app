@@ -1,10 +1,14 @@
-# EV Charger Geolocation Tool
+# EV Charger Location Tracker
 
-![Architecture Diagram](docs/ev_charger_architecture.png)
+Architecture Diagram
+
+
+<img width="384" height="443" alt="ev_charger_architecture" src="https://github.com/user-attachments/assets/7d68fea6-b0fa-4e9d-ad6a-8bce96b4df6d" />
+
 
 ## 📌 Project Overview
 
-The **EV Charger Geolocation Tool** is a full-stack web application designed to accurately capture the physical location of EV chargers.  
+The **EV Charger Location Tracker Tool** is a full-stack web application designed to accurately capture the physical location of EV chargers.  
 This ensures that field teams and future fleet operations have precise geolocation data, improving operational efficiency.
 
 ## 🛠 My Role & Contributions
@@ -18,7 +22,7 @@ Key features I implemented include:
 - **Time-limited access**: Sessions expire after 1 hour to prevent unauthorized use.
 - **Clean, responsive UI** built with React + Tailwind CSS.
 - **RESTful APIs & session logic** developed using Flask.
-- **Geolocation & search integration** via Google Maps API (or equivalent).
+- **Geolocation & search integration** via Google Maps API.
 
 ## ✅ Result
 
