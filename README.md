@@ -53,7 +53,7 @@ This project strengthened my expertise in:
 
 1. Clone this repository  
    ```bash
-   git clone https://github.com/yourusername/ev-charger-geolocation-tool.git
+   git clone https://github.com/yourusername/charger-locator-app.git
    ```
 
 2. Explore the `client/` (frontend) and `server/` (backend) codebases.
